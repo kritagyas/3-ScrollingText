@@ -1,0 +1,10 @@
+# 3-ScrollingText
+![challenge](https://user-images.githubusercontent.com/50696630/113478932-a6947e00-94ab-11eb-830c-e53658200436.jpg)
+![horizontalscroll](https://user-images.githubusercontent.com/50696630/113478934-a85e4180-94ab-11eb-9095-7c70cc71c87b.gif)
+![horizontalview](https://user-images.githubusercontent.com/50696630/113478937-a98f6e80-94ab-11eb-8938-d1b13395123d.png)
+![tabletscroll](https://user-images.githubusercontent.com/50696630/113478938-aa280500-94ab-11eb-96d3-a6c64f6387bb.gif)
+![task_1](https://user-images.githubusercontent.com/50696630/113478939-aac09b80-94ab-11eb-9aa7-09e64d28c3af.png)
+![task_1g](https://user-images.githubusercontent.com/50696630/113478940-ab593200-94ab-11eb-8ad9-d9dbba8767d1.gif)
+![task_2](https://user-images.githubusercontent.com/50696630/113478942-abf1c880-94ab-11eb-9eb0-71300ee2db2f.png)
+![task3](https://user-images.githubusercontent.com/50696630/113478943-ac8a5f00-94ab-11eb-94c4-273cef3d9f69.png)
+![task3scroll](https://user-images.githubusercontent.com/50696630/113478944-ad22f580-94ab-11eb-9777-bc783d7c2412.gif)
